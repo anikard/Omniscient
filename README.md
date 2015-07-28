@@ -1,5 +1,6 @@
 # Omniscient
 
+## Project Description
 
 # Team
 
